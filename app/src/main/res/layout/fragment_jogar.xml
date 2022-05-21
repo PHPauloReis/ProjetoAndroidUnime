@@ -63,6 +63,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:background="@color/white"
+        android:onClick="buttonCadastrarJogarFragment"
         android:text="@string/cadastrar_perguntas_e_respostas"
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
