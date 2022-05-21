@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jogo de Perguntas</string>
+    <string name="cadastre_uma_pergunta_para_jogar">Cadastre uma pergunta para jogar</string>
+    <string name="exibir_resposta">Exibir Resposta</string>
+    <string name="pular"><![CDATA[Pular >]]></string>
+    <string name="cadastrar_perguntas_e_respostas">Cadastrar Perguntas e Respostas</string>
+</resources>
