@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
                 .commit();
     }
 
+    // Botões do Fragmento Jogar
     public void buttonCadastrarJogarFragment(View v) {
         getSupportFragmentManager()
                 .beginTransaction()
@@ -25,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
                 .commit();
     }
 
+    // Botões do Fragmento Cadastrar
     public void buttonJogarCadastrarFragment(View v) {
         getSupportFragmentManager()
                 .beginTransaction()
