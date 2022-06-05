@@ -9,10 +9,17 @@ public class Questoes {
 
     @PrimaryKey(autoGenerate = true)
     private int id;
-
-
     private String pergunta;
     private String resposta;
+
+    public Questoes() {
+
+    }
+
+    public Questoes(String pergunta, String resposta) {
+        this.pergunta = pergunta;
+        this.resposta = resposta;
+    }
 
     public int getId() {
         return id;
